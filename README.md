@@ -18,15 +18,16 @@
 
 ## 可视化实例
 ### 例子🌰1
-![raw](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/vanke_2016_1241_nb_3.jpg)
-![nrow](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/nrow/vanke_2016_1241_nb_3.jpg)
-![ncol](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/ncol/vanke_2016_1241_nb_3.jpg)
+![raw](tx_infer_data/vanke_2016_1241_nb_3.jpg)
+![nrow](tx_infer_data/nrow/vanke_2016_1241_nb_3.jpg)
+![ncol](tx_infer_data/ncol/vanke_2016_1241_nb_3.jpg)
 ### 例子🌰2
-![raw](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/1.jpg)
-![row](https://github.com/tommyMessi/tableImageParser_tx/blob/master/tx_infer_data/row/1.jpg)
-![row](https://github.com/tommyMessi/tableImageParser_tx/tree/master/tx_infer_data/col)
+![raw](tx_infer_data/1.jpg)
+![row](tx_infer_data/row/1.jpg)
+![row](tx_infer_data/col/1.jpg)
 
 ## 其他
+
 训练数据与预训练模型 关注微信公众账号 hulugeAI 留言：table parser
 
 
